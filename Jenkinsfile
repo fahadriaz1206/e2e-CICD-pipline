@@ -8,7 +8,7 @@ pipeline{
     }
     
     environment {
-        APP_NAME = "e2e-CICD-pipline"
+        APP_NAME = "e2e-cicd-pipline"
         RELEASE = "1.0.0"
         DOCKER_USER = "fahad1206"
         DOCKER_PASS = 'dockerhub'
